@@ -23,6 +23,7 @@ You can find its changes [documented below](#070---2021-01-01).
 
 ### Examples
 
+- Updated fluent-bundle to 0.15.1 and fluent syntax to 0.11.0 ([#1772] by [@r-ml])
 ### Outside News
 
 ## [0.7.0] - 2021-01-01
@@ -584,6 +585,7 @@ Last release without a changelog :(
 [#1448]: https://github.com/linebender/druid/pull/1448
 [#1463]: https://github.com/linebender/druid/pull/1463
 [#1452]: https://github.com/linebender/druid/pull/1452
+[#1772]: https://github.com/linebender/druid/pull/1772
 
 [Unreleased]: https://github.com/linebender/druid/compare/v0.6.0...master
 [0.6.0]: https://github.com/linebender/druid/compare/v0.5.0...v0.6.0
